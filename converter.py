@@ -22,4 +22,4 @@ def convert_xml_json(input_file, output_file):
 
 
 if __name__ == "__main__":
-    convert_xml_json(sys.argv[0], sys.argv[1])
+    convert_xml_json(sys.argv[1], sys.argv[2])
