@@ -12,10 +12,22 @@ into a more accessible ans smaller in size ```.json``` file. Python code used fo
 We parsed in R by ```library(rjson)``` the ```.json``` file and created a tab separated table with some useful fields like ID, Name, Description, Publication.
 R code is available.
 
-# Requirements
+# How to use the converter
 Before using the repository, you need to install the following dependency:
 ```
 pip install xmltodict
+pip install pytest
 ```
 
+Then you can check that the repository is correctly installed, by running:
+```
+pytest unit_test.py
+```
 
+If everything works properly, you can convert an xml file into a json file, by giving the input filename and the output filename.
+You can try it with the demo file that we have provided in the folder test, as follows:
+```
+python converter.py test/demo.xml test/demo.json
+```
+
+Check the "test" folder; a .json file should be there.
