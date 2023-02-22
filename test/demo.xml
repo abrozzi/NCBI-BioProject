@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PackageSet>
+<Package>
+  <Project>
+    <Project>
+      <ProjectID>
+        <ArchiveID accession="PRJNA3" archive="NCBI" id="3"/>
+      </ProjectID>
+      <ProjectDescr>
+        <Name>Borreliella burgdorferi B31</Name>
+        <Title>Causes Lyme disease</Title>
+        <Description>&lt;P&gt;
+&lt;I&gt;&lt;B&gt;Borrelia burgdorferi&lt;/I&gt; strain B31&lt;/B&gt;. This is the type strain (ATCC 35210) for this organism and was derived by limited dilutional cloning from the original Lyme-disease tick isolate derived by A. Barbour.</Description>
+        <ExternalLink category="Related Resources" label="TIGR Microbial Database">
+          <URL>http://www.tigr.org/tdb/mdb/mdbinprogress.html</URL>
+        </ExternalLink>
+        <ExternalLink category="Other Databases" label="GOLD">
+          <URL>http://genomesonline.org/cgi-bin/GOLD/bin/GOLDCards.cgi?goldstamp=Gc00012</URL>
+        </ExternalLink>
+        <Publication id="14731275" status="ePublished">
+          <Reference/>
+          <StructuredCitation>
+            <Title>Cross-species hybridization of a Borrelia burgdorferi DNA array reveals infection- and culture-associated genes of the unsequenced genome of the relapsing fever agent Borrelia hermsii.</Title>
+            <Journal>
+              <JournalTitle>Molecular microbiology</JournalTitle>
+              <Year>2004</Year>
+              <Volume>51</Volume>
+              <Issue>3</Issue>
+              <PagesFrom>729</PagesFrom>
+              <PagesTo>48</PagesTo>
+            </Journal>
+            <AuthorSet>
+              <Author>
+                <Name>
+                  <First>Jianmin</First>
+                  <Last>Zhong</Last>
+                </Name>
+                <Consortium>Department of Microbiology and Molecular Genetics, University of California Irvine, Irvine, CA 92697-4025, USA.</Consortium>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Alan G</First>
+                  <Last>Barbour</Last>
+                </Name>
+              </Author>
+            </AuthorSet>
+          </StructuredCitation>
+          <DbType>ePubmed</DbType>
+        </Publication>
+        <Publication date="1997-12-11T00:00:00Z" id="9403685" status="ePublished">
+          <Reference/>
+          <StructuredCitation>
+            <Title>Genomic sequence of a Lyme disease spirochaete, Borrelia burgdorferi.</Title>
+            <Journal>
+              <JournalTitle>Nature</JournalTitle>
+              <Year>1997</Year>
+              <Volume>390</Volume>
+              <Issue>6660</Issue>
+              <PagesFrom>580</PagesFrom>
+              <PagesTo>6</PagesTo>
+            </Journal>
+            <AuthorSet>
+              <Author>
+                <Name>
+                  <First>C M</First>
+                  <Last>Fraser</Last>
+                </Name>
+                <Consortium>Institute for Genomic Research, Rockville, Maryland 20850, USA.</Consortium>
+              </Author>
+              <Author>
+                <Name>
+                  <First>S</First>
+                  <Last>Casjens</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>W M</First>
+                  <Last>Huang</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>G G</First>
+                  <Last>Sutton</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>R</First>
+                  <Last>Clayton</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>R</First>
+                  <Last>Lathigra</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>O</First>
+                  <Last>White</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>K A</First>
+                  <Last>Ketchum</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>R</First>
+                  <Last>Dodson</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>E K</First>
+                  <Last>Hickey</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>M</First>
+                  <Last>Gwinn</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>B</First>
+                  <Last>Dougherty</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>J F</First>
+                  <Last>Tomb</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>R D</First>
+                  <Last>Fleischmann</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>D</First>
+                  <Last>Richardson</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>J</First>
+                  <Last>Peterson</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>A R</First>
+                  <Last>Kerlavage</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>J</First>
+                  <Last>Quackenbush</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>S</First>
+                  <Last>Salzberg</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>M</First>
+                  <Last>Hanson</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>R</First>
+                  <Last>van Vugt</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>N</First>
+                  <Last>Palmer</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>M D</First>
+                  <Last>Adams</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>J</First>
+                  <Last>Gocayne</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>J</First>
+                  <Last>Weidman</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>T</First>
+                  <Last>Utterback</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>L</First>
+                  <Last>Watthey</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>L</First>
+                  <Last>McDonald</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>P</First>
+                  <Last>Artiach</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>C</First>
+                  <Last>Bowman</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>S</First>
+                  <Last>Garland</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>C</First>
+                  <Last>Fuji</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>M D</First>
+                  <Last>Cotton</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>K</First>
+                  <Last>Horst</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>K</First>
+                  <Last>Roberts</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>B</First>
+                  <Last>Hatch</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>H O</First>
+                  <Last>Smith</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>J C</First>
+                  <Last>Venter</Last>
+                </Name>
+              </Author>
+            </AuthorSet>
+          </StructuredCitation>
+          <DbType>ePubmed</DbType>
+        </Publication>
+        <Publication id="10672174" status="ePublished">
+          <Reference/>
+          <StructuredCitation>
+            <Title>A bacterial genome in flux: the twelve linear and nine circular extrachromosomal DNAs in an infectious isolate of the Lyme disease spirochete Borrelia burgdorferi.</Title>
+            <Journal>
+              <JournalTitle>Molecular microbiology</JournalTitle>
+              <Year>2000</Year>
+              <Volume>35</Volume>
+              <Issue>3</Issue>
+              <PagesFrom>490</PagesFrom>
+              <PagesTo>516</PagesTo>
+            </Journal>
+            <AuthorSet>
+              <Author>
+                <Name>
+                  <First>S</First>
+                  <Last>Casjens</Last>
+                </Name>
+                <Consortium>Division of Molecular Biology and Genetics, Department of Oncological Sciences, University of Utah Medical School, Salt Lake City, UT 84132, USA.</Consortium>
+              </Author>
+              <Author>
+                <Name>
+                  <First>N</First>
+                  <Last>Palmer</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>R</First>
+                  <Last>van Vugt</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>W M</First>
+                  <Last>Huang</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>B</First>
+                  <Last>Stevenson</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>P</First>
+                  <Last>Rosa</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>R</First>
+                  <Last>Lathigra</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>G</First>
+                  <Last>Sutton</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>J</First>
+                  <Last>Peterson</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>R J</First>
+                  <Last>Dodson</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>D</First>
+                  <Last>Haft</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>E</First>
+                  <Last>Hickey</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>M</First>
+                  <Last>Gwinn</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>O</First>
+                  <Last>White</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>C M</First>
+                  <Last>Fraser</Last>
+                </Name>
+              </Author>
+            </AuthorSet>
+          </StructuredCitation>
+          <DbType>ePubmed</DbType>
+        </Publication>
+        <ProjectReleaseDate>2001-01-09T00:00:00Z</ProjectReleaseDate>
+        <LocusTagPrefix assembly_id="GCA_000008685" biosample_id="SAMN02603966">BB</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044051">E0Y81</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044052">E0Y82</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044053">E0Y83</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044054">E0Y84</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044055">E0Y85</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044056">E0Y86</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044057">E0Y87</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044058">E0Y88</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044059">E0Y89</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044060">E0Y90</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044061">E0Y91</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044062">E0Y92</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044063">E0Y93</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044064">E0Y94</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044065">E0Y95</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044066">E0Y96</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044067">E0Y97</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044068">E0Y98</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044069">E0Y99</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN11044070">E0Z00</LocusTagPrefix>
+        <LocusTagPrefix biosample_id="SAMN19513661">KNW15</LocusTagPrefix>
+      </ProjectDescr>
+      <ProjectType>
+        <ProjectTypeSubmission>
+          <Target capture="eWhole" material="eGenome" sample_scope="eMultiisolate">
+            <Organism species="139" taxID="224326">
+              <OrganismName>Borreliella burgdorferi B31</OrganismName>
+              <Strain>B31</Strain>
+              <Supergroup>eBacteria</Supergroup>
+              <BiologicalProperties>
+                <Morphology>
+                  <Shape>eSpirilla</Shape>
+                  <Motility>eNo</Motility>
+                </Morphology>
+                <Environment>
+                  <OxygenReq>eMicroaerophilic</OxygenReq>
+                  <TemperatureRange>eMesophilic</TemperatureRange>
+                  <Habitat>eHostAssociated</Habitat>
+                </Environment>
+                <Phenotype>
+                  <Disease>Lyme disease</Disease>
+                </Phenotype>
+              </BiologicalProperties>
+              <RepliconSet>
+                <Replicon order="1">
+                  <Type location="eNuclearProkaryote">eChromosome</Type>
+                  <Name/>
+                  <Size units="Mb">0.910000</Size>
+                </Replicon>
+                <Replicon order="377">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>lp17</Name>
+                  <Size units="Mb">0.016823</Size>
+                </Replicon>
+                <Replicon order="378">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>lp25</Name>
+                  <Size units="Mb">0.024177</Size>
+                </Replicon>
+                <Replicon order="379">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>lp28-1</Name>
+                  <Size units="Mb">0.026921</Size>
+                </Replicon>
+                <Replicon order="101">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>cp9</Name>
+                  <Size units="Mb">0.009386</Size>
+                </Replicon>
+                <Replicon order="102">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>cp26</Name>
+                  <Size units="Mb">0.026498</Size>
+                </Replicon>
+                <Replicon order="380">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>lp28-2</Name>
+                  <Size units="Mb">0.029766</Size>
+                </Replicon>
+                <Replicon order="381">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>lp28-3</Name>
+                  <Size units="Mb">0.028601</Size>
+                </Replicon>
+                <Replicon order="382">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>lp28-4</Name>
+                  <Size units="Mb">0.027323</Size>
+                </Replicon>
+                <Replicon order="383">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>lp36</Name>
+                  <Size units="Mb">0.036849</Size>
+                </Replicon>
+                <Replicon order="384">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>lp38</Name>
+                  <Size units="Mb">0.038829</Size>
+                </Replicon>
+                <Replicon order="385">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>lp54</Name>
+                  <Size units="Mb">0.053561</Size>
+                </Replicon>
+                <Replicon order="103">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>cp32-1</Name>
+                  <Size units="Mb">0.030750</Size>
+                </Replicon>
+                <Replicon order="104">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>cp32-3</Name>
+                  <Size units="Mb">0.030223</Size>
+                </Replicon>
+                <Replicon order="105">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>cp32-4</Name>
+                  <Size units="Mb">0.030299</Size>
+                </Replicon>
+                <Replicon order="106">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>cp32-6</Name>
+                  <Size units="Mb">0.029838</Size>
+                </Replicon>
+                <Replicon order="107">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>cp32-7</Name>
+                  <Size units="Mb">0.030800</Size>
+                </Replicon>
+                <Replicon order="108">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>cp32-8</Name>
+                  <Size units="Mb">0.030885</Size>
+                </Replicon>
+                <Replicon order="109">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>cp32-9</Name>
+                  <Size units="Mb">0.030651</Size>
+                </Replicon>
+                <Replicon order="110">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>lp5</Name>
+                  <Size units="Mb">0.005228</Size>
+                </Replicon>
+                <Replicon order="111">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>lp21</Name>
+                  <Size units="Mb">0.018753</Size>
+                </Replicon>
+                <Replicon order="112">
+                  <Type location="eNuclearProkaryote">ePlasmid</Type>
+                  <Name>lp56</Name>
+                  <Size units="Mb">0.052971</Size>
+                </Replicon>
+                <Count repliconType="eOther">22</Count>
+              </RepliconSet>
+              <GenomeSize units="Kb">1519.132000</GenomeSize>
+            </Organism>
+          </Target>
+          <Method method_type="eSequencing"/>
+          <Objectives>
+            <Data data_type="eAssembly"/>
+          </Objectives>
+          <ProjectDataTypeSet>
+            <DataType>Genome sequencing</DataType>
+          </ProjectDataTypeSet>
+        </ProjectTypeSubmission>
+      </ProjectType>
+    </Project>
+    <Submission submitted="2003-02-23">
+      <Description>
+        <Organization role="owner" type="center" url="http://www.tigr.org/tigr-scripts/CMR2/GenomePage3.spl?database=gbb">
+          <Name abbr="TIGR">TIGR</Name>
+        </Organization>
+        <Access>public</Access>
+        <!--Submitter, contact information and comments have been removed-->
+      </Description>
+    </Submission>
+    <ProjectLinks>
+      <Link>
+        <ProjectIDRef archive="NCBI" id="3" accession="PRJNA3"/>
+        <Hierarchical type="TopSingle">
+          <MemberID archive="NCBI" id="19847" accession="PRJNA19847"/>
+        </Hierarchical>
+      </Link>
+      <Link>
+        <ProjectIDRef archive="NCBI" id="57581" accession="PRJNA57581"/>
+        <PeerProject>
+          <CommonInputData>eRefseqGenbank</CommonInputData>
+          <MemberID archive="NCBI" id="3" accession="PRJNA3"/>
+        </PeerProject>
+      </Link>
+    </ProjectLinks>
+  </Project>
+</Package>
+<Package>
+  <Project>
+    <Project>
+      <ProjectID>
+        <ArchiveID accession="PRJNA4" archive="NCBI" id="4"/>
+      </ProjectID>
+      <ProjectDescr>
+        <Name>Treponema denticola ATCC 35405</Name>
+        <Title>Causes periodontal disease, gum inflamation</Title>
+        <Description>&lt;P&gt;&lt;I&gt;&lt;B&gt;Treponema denticola&lt;/I&gt; ATCC 35405&lt;/B&gt;. &lt;I&gt;Treponema denticola&lt;/I&gt; ATCC 35405 was isolated from a human periodontal pocket and is the type strain of this organism.</Description>
+        <ExternalLink category="Related Resources" label="TIGR Microbial Database">
+          <URL>http://www.tigr.org/tdb/mdb/mdbinprogress.html</URL>
+        </ExternalLink>
+        <ExternalLink category="Other Databases" label="GOLD">
+          <URL>http://genomesonline.org/cgi-bin/GOLD/bin/GOLDCards.cgi?goldstamp=Gc00174</URL>
+        </ExternalLink>
+        <Publication date="2004-04-13T00:00:00Z" id="15064399" status="ePublished">
+          <Reference/>
+          <StructuredCitation>
+            <Title>Comparison of the genome of the oral pathogen Treponema denticola with other spirochete genomes.</Title>
+            <Journal>
+              <JournalTitle>Proceedings of the National Academy of Sciences of the United States of America</JournalTitle>
+              <Year>2004</Year>
+              <Volume>101</Volume>
+              <Issue>15</Issue>
+              <PagesFrom>5646</PagesFrom>
+              <PagesTo>51</PagesTo>
+            </Journal>
+            <AuthorSet>
+              <Author>
+                <Name>
+                  <First>Rekha</First>
+                  <Last>Seshadri</Last>
+                </Name>
+                <Consortium>The Institute for Genomic Research, 9712 Medical Center Drive, Rockville, MD 20850, USA.</Consortium>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Garry S A</First>
+                  <Last>Myers</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Hervé</First>
+                  <Last>Tettelin</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Jonathan A</First>
+                  <Last>Eisen</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>John F</First>
+                  <Last>Heidelberg</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Robert J</First>
+                  <Last>Dodson</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Tanja M</First>
+                  <Last>Davidsen</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Robert T</First>
+                  <Last>DeBoy</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Derrick E</First>
+                  <Last>Fouts</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Dan H</First>
+                  <Last>Haft</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Jeremy</First>
+                  <Last>Selengut</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Qinghu</First>
+                  <Last>Ren</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Lauren M</First>
+                  <Last>Brinkac</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Ramana</First>
+                  <Last>Madupu</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Jamie</First>
+                  <Last>Kolonay</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Scott A</First>
+                  <Last>Durkin</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Sean C</First>
+                  <Last>Daugherty</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Jyoti</First>
+                  <Last>Shetty</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Alla</First>
+                  <Last>Shvartsbeyn</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Elizabeth</First>
+                  <Last>Gebregeorgis</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Keita</First>
+                  <Last>Geer</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Getahun</First>
+                  <Last>Tsegaye</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Joel</First>
+                  <Last>Malek</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Bola</First>
+                  <Last>Ayodeji</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Sofiya</First>
+                  <Last>Shatsman</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Michael P</First>
+                  <Last>McLeod</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>David</First>
+                  <Last>Smajs</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Jerrilyn K</First>
+                  <Last>Howell</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Sangita</First>
+                  <Last>Pal</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Anita</First>
+                  <Last>Amin</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Pankaj</First>
+                  <Last>Vashisth</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Thomas Z</First>
+                  <Last>McNeill</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Qin</First>
+                  <Last>Xiang</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Erica</First>
+                  <Last>Sodergren</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Ernesto</First>
+                  <Last>Baca</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>George M</First>
+                  <Last>Weinstock</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Steven J</First>
+                  <Last>Norris</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Claire M</First>
+                  <Last>Fraser</Last>
+                </Name>
+              </Author>
+              <Author>
+                <Name>
+                  <First>Ian T</First>
+                  <Last>Paulsen</Last>
+                </Name>
+              </Author>
+            </AuthorSet>
+          </StructuredCitation>
+          <DbType>ePubmed</DbType>
+        </Publication>
+        <ProjectReleaseDate>2004-02-03T00:00:00Z</ProjectReleaseDate>
+        <LocusTagPrefix biosample_id="SAMN19513662">KNW16</LocusTagPrefix>
+        <LocusTagPrefix assembly_id="GCA_000008185" biosample_id="SAMN02603967">TDE</LocusTagPrefix>
+      </ProjectDescr>
+      <ProjectType>
+        <ProjectTypeSubmission>
+          <Target capture="eWhole" material="eGenome" sample_scope="eMultiisolate">
+            <Organism species="158" taxID="243275">
+              <OrganismName>Treponema denticola ATCC 35405</OrganismName>
+              <Strain>ATCC 35405</Strain>
+              <Supergroup>eBacteria</Supergroup>
+              <BiologicalProperties>
+                <Morphology>
+                  <Shape>eSpirilla</Shape>
+                  <Motility>eNo</Motility>
+                </Morphology>
+                <Environment>
+                  <OxygenReq>eAnaerobic</OxygenReq>
+                  <OptimumTemperature>30-42</OptimumTemperature>
+                  <TemperatureRange>eMesophilic</TemperatureRange>
+                  <Habitat>eHostAssociated</Habitat>
+                </Environment>
+                <Phenotype>
+                  <Disease>Periodontal disease, gum inflamation</Disease>
+                </Phenotype>
+              </BiologicalProperties>
+              <RepliconSet>
+                <Replicon order="1">
+                  <Type location="eNuclearProkaryote">eChromosome</Type>
+                  <Name/>
+                  <Size units="Mb">2.843201</Size>
+                </Replicon>
+                <Count repliconType="eOther">1</Count>
+              </RepliconSet>
+              <GenomeSize units="Kb">2843.201000</GenomeSize>
+            </Organism>
+          </Target>
+          <Method method_type="eSequencing"/>
+          <Objectives>
+            <Data data_type="eAssembly"/>
+          </Objectives>
+          <ProjectDataTypeSet>
+            <DataType>Genome sequencing</DataType>
+          </ProjectDataTypeSet>
+        </ProjectTypeSubmission>
+      </ProjectType>
+    </Project>
+    <Submission submitted="2003-02-25">
+      <Description>
+        <Organization role="owner" type="center" url="http://www.tigr.org/tigr-scripts/CMR2/GenomePage3.spl?database=gtd">
+          <Name abbr="TIGR">TIGR</Name>
+        </Organization>
+        <Organization role="participant" type="center" url="http://www.hgsc.bcm.tmc.edu/projects/microbial/">
+          <Name abbr="Baylor College of Medicine">Baylor College of Medicine</Name>
+        </Organization>
+        <Access>public</Access>
+        <!--Submitter, contact information and comments have been removed-->
+      </Description>
+    </Submission>
+    <ProjectLinks>
+      <Link>
+        <ProjectIDRef archive="NCBI" id="4" accession="PRJNA4"/>
+        <Hierarchical type="TopSingle">
+          <MemberID archive="NCBI" id="35041" accession="PRJNA35041"/>
+        </Hierarchical>
+      </Link>
+      <Link>
+        <ProjectIDRef archive="NCBI" id="57583" accession="PRJNA57583"/>
+        <PeerProject>
+          <CommonInputData>eRefseqGenbank</CommonInputData>
+          <MemberID archive="NCBI" id="4" accession="PRJNA4"/>
+        </PeerProject>
+      </Link>
+    </ProjectLinks>
+  </Project>
+</Package>
+</PackageSet>
