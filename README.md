@@ -9,8 +9,8 @@ https://ftp.ncbi.nlm.nih.gov/bioproject/bioproject.xml
 into a more accessible ans smaller in size ```.json``` file. Python code used for the conversion is available.
 
 # TSV FILE
-We parsed in R by ```library(rjson)``` the ```.json``` file and created a tab separated table with some useful fields like ID, Name, Description, Publication.
-R code is available.
+We parsed in R by ```library(rjson)``` the ```.json``` file and created a tab separated table with some useful fields like ID, Name, Description
+R code to output a tab seprated table from json file is available in ```R/main.R```.
 
 # How to use the converter
 Before using the repository, you need to install the following dependency:
