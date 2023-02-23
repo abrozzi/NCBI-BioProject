@@ -13,6 +13,8 @@ We parsed in R by ```library(rjson)``` the ```.json``` file and created a tab se
 
 R code to output a tab separated table from json input is available in ```R/main.R```.
 
+Output table is ```test/demo.tsv```
+
 # How to use the converter
 Before using the repository, you need to install the following dependency:
 ```
