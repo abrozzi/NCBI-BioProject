@@ -1,10 +1,11 @@
 # Lib
 
+library(here)
 library(rjson)
 
 # Main
 
-res = fromJSON(file = "test/demo.json")
+res = fromJSON(file = here("test/demo.json"))
 
 N   = length(res$PackageSet$Package)
 
